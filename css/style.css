@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 1050px;
+}
+
+.parent1{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 20px;
+    
+}
+
+.parent2{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 20px;
+    
+}
+.parent3{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 20px;
+    
+}
